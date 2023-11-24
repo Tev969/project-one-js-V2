@@ -15,7 +15,7 @@ switch (choice) {
     break;
 
   default:
-    console.log("Dommage..");
+    console.log("Dommage...");
     return;
 }
 myChoice.push(choice);
